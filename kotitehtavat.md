@@ -14,7 +14,8 @@ b) ISO 27034 kuuluu ISO/IEC 27000 tietoturvallisuuden standardisarjaan. ISO 2703
 
 c)
 
-d)
+d) Asennus jäi kesken, kun graphic install antoi virheeksi cannot open display tms. Ilmoitti jotain ongelmaa keyboard initialization kanssa.
+
 
 # Lähteet
 
