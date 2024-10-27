@@ -34,3 +34,7 @@ https://terokarvinen.com/application-hacking/#h1-korkeat-standardit
 ISO27000-2020-en.pdf
 
 ISO27034-1-1719737070995_6.pdf
+
+https://youtu.be/GkIb-l1K2FQ?si=f-Je6iR9mnFmFNzz
+
+Meurman 2021: Laatulöpinät 30: Tietoturvallisuus ohjelmistokehityksessä
