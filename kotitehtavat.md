@@ -24,7 +24,7 @@ c) 1. Väittämän kanssa olen Markus Meurmanin ja Joona Kokkolan kanssa samaa m
    
 6. Varmasti huomaa itse paremmin haavoittuvuuksia omassa ohjelmistossaan kuin toisen. Tuntee sen koodinsa paremmin ja kenties osaa myös lukea sitä paremmin kuin toisen koodia.
 
-d) Asennus jäi kesken, kun graphic install antoi virheeksi cannot open display tms. Ilmoitti jotain ongelmaa keyboard initialization kanssa.
+d) En ole täysin varma onko Debian 12 nyt asennettuna/konffattu oikein. Jotain tein.
 
 
 # Lähteet
@@ -35,6 +35,6 @@ ISO27000-2020-en.pdf
 
 ISO27034-1-1719737070995_6.pdf
 
-https://youtu.be/GkIb-l1K2FQ?si=f-Je6iR9mnFmFNzz
+https://terokarvinen.com/2021/install-debian-on-virtualbox/
 
 Meurman 2021: Laatulöpinät 30: Tietoturvallisuus ohjelmistokehityksessä
