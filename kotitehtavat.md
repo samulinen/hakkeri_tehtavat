@@ -24,7 +24,7 @@ c) 1. Väittämän kanssa olen Markus Meurmanin ja Joona Kokkolan kanssa samaa m
    
 6. Varmasti huomaa itse paremmin haavoittuvuuksia omassa ohjelmistossaan kuin toisen. Tuntee sen koodinsa paremmin ja kenties osaa myös lukea sitä paremmin kuin toisen koodia.
 
-d) En ole täysin varma onko Debian 12 nyt asennettuna/konffattu oikein. Jotain tein.
+d) Kuittaus.
 
 
 # Lähteet
